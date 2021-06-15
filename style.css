@@ -1,0 +1,13 @@
+*[class*="elemento"]{
+    border: 2px solid #f00;
+    padding: 20px;
+    margin: 20px;
+}
+
+.elemento-absolute{
+    background-color: blue;
+    color: #fff;
+    /*position: absolute;
+    top: 0;
+    left: 0;*/
+}
